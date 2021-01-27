@@ -1,0 +1,11 @@
+.leftcolumn{
+    display: l;
+    grid-template-columns: 33%;
+}
+.headwrapper{
+    display:inline;
+}
+
+.headwrapper > img {
+display:;
+}

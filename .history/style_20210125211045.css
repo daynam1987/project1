@@ -1,0 +1,11 @@
+column{
+    display: grid;
+    grid-template-columns: 1;
+}
+.headwrapper{
+    display:inline;
+}
+
+.headwrapper > img {
+display:;
+}

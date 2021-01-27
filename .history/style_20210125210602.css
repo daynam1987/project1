@@ -1,0 +1,11 @@
+.column{
+    display: table-column;
+    width: 151;
+}
+.headwrapper{
+    display:inline;
+}
+
+.headwrapper > img {
+display:;
+}

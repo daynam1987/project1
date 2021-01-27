@@ -1,0 +1,8 @@
+.headwrapper{
+    display:flex;
+    justify-content: space-around
+}
+
+.headwrapper > img {
+display:;
+}
