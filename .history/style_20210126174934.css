@@ -1,0 +1,11 @@
+/18.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    vertical-align: middle;
+    flex-wrap: nowrap;
+    width: 50%;
+    align-items: center;
+    align-content: center;
+
+}
